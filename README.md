@@ -1,3 +1,7 @@
+## VLCMP_RPC
+VLC Media Player RPC written in Python.
+
+ (REQUEST BY macchiato(@pepsicart))
 
 
 # **IMPORTANT NOTICE!**
